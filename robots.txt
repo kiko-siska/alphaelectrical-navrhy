@@ -1,0 +1,3 @@
+# Concept, not approved by the owner: keep out of search engines.
+User-agent: *
+Disallow: /
